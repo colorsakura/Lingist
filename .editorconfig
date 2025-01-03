@@ -1,0 +1,4 @@
+root = true
+
+[*.zig]
+end_of_line = lf
